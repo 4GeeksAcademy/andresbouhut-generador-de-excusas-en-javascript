@@ -1,5 +1,28 @@
-@import "bootstrap/dist/css/bootstrap.min.css";
 
-body{
-    background: white;
+
+body {
+	margin: 0;
+	justify-content: center;
+	align-items: center;
+  background: white;
+    
+	
 }
+div {
+	box-sizing: border-box;
+}
+header {
+	background: white;
+	padding: 10px;
+}
+header h1 {
+	margin: 0;
+}
+.wrap {
+    position: absolute;
+    text-align: center;
+    width: 100%;
+  }
+  #excuse {
+    text-align: center;
+  }
