@@ -5,23 +5,28 @@ body {
 	justify-content: center;
 	align-items: center;
   background: white;
+  text-align: center;
     
 	
 }
 div {
 	box-sizing: border-box;
+  text-align: center;
 }
 header {
 	background: white;
 	padding: 10px;
+  text-align: center;
 }
 header h1 {
 	margin: 0;
+  text-align: center;
 }
 .wrap {
     position: absolute;
     text-align: center;
     width: 100%;
+    text-align: center;
   }
   #excuse {
     text-align: center;
