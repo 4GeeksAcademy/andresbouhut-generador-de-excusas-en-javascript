@@ -22,11 +22,12 @@ header h1 {
 	margin: 0;
   text-align: center;
 }
-.wrap {
-    position: absolute;
-    text-align: center;
-    width: 100%;
-    text-align: center;
+.container {
+  position: absolute;
+  text-align: center;
+  width: 100%;
+  text-align: center;
+
   }
   #excuse {
     text-align: center;
